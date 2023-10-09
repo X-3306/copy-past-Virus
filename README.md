@@ -20,7 +20,9 @@ document.getElementById('copy').addEventListener('copy', function(e) { e.clipboa
 
 # How to avoid this​
 Only copy and paste content from trusted sources.
+
 Use a firewall to block suspicious incoming connections.
+
 configure your terminal to avoid new line “\n” or \r\n to stop this attack.
 
 
