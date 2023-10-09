@@ -3,6 +3,7 @@ Basically when the text is pasted into a terminal or CMD/PowerShell, the script 
 
 This attack works also on Windows 11 and Ubuntu.
 
+### Test -----> https://youtu.be/EpDkGCL6tXY
 
 # example of attacker script: 
  ```
