@@ -16,3 +16,12 @@ document.getElementById('copy').addEventListener('copy', function(e) { e.clipboa
 **Another way that malicious code can be introduced into systems through copy and paste is through the use of malicious links. These links can be embedded in text that is copied from a website. When the text/link is pasted into a browser, the link is clicked and the user is taken to a malicious website. This website can then install malware on the user's computer or steal the user's personal information.**
 
  For now, this is short simple concept and show of kinda smart attack vector but in the future, when I have time, I will learn more about this method and update this repository with more advanced techniques.
+
+
+# How to avoid this​
+Only copy and paste content from trusted sources.
+Use a firewall to block suspicious incoming connections.
+configure your terminal to avoid new line “\n” or \r\n to stop this attack.
+
+
+The creator of this repository does not bear any legal consequences if any person uses it inappropriately. The purpose of this is only to show a clever way for bad actors to infect an unaware user, so that the potential victim will know to be careful and how to defend themselves against it.
